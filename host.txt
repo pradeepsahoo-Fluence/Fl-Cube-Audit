@@ -1,0 +1,2 @@
+Core 01 Node 01 Row 01 Cube 01,10.11.9.101,1502
+Core 02 Node 01 Row 01 Cube 01,10.11.17.101,1502
